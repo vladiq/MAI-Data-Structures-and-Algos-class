@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Class in MAI
+# Data Structures and Algorithms Class in MAI 
 
 [Lab 1: Implementation of Radix Sort and Counting Sort](https://github.com/vladiq/MAI-Data-Structures-and-Algos-class/tree/main/lab_01)
 
